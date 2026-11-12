@@ -9,3 +9,7 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+
+# Personal, machine-specific harness settings (never commit)
+CLAUDE.local.md
+.claude/settings.local.json
